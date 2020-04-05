@@ -6,6 +6,7 @@ export default StyleSheet.create({
         flex: 1,
         paddingHorizontal: 24,
         paddingTop: Constants.statusBarHeight + 20,
+        minHeight: 500,
     },
 
     header: {
