@@ -1,9 +1,13 @@
-# semana_omnistack11
+# Semana Omnistack 11
 Projeto desenvolvido durante o evento Semana OmniStack 11
 
 /frontend
-Contém o frontend da aplicação web que será desenvolvido com React
+Frontend da aplicação web desenvolvido com ReactJS.
 
 
 /backend
-Contém o backend da aplicação que será desenvolvido com JavaScript / Node.js
+API REST desenvolvida com JavaScript / NodeJS.
+
+
+/mobile
+APP desenvolvido com React Native.
